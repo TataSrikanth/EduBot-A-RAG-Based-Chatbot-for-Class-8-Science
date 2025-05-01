@@ -88,10 +88,4 @@ Make sure:
 - "List all available chapters"
 - "Explain friction with diagrams"
 
----
-
-## 📬 Contact
-
-Developed by **@vicky**  
-For educational or demo use. Extendable to other subjects and grades.
 
