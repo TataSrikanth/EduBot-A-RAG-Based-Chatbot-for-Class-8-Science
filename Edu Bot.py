@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 10 13:12:21 2025
-
-@author: vicky
-"""
-
 import streamlit as st
 import mysql.connector
 import json
